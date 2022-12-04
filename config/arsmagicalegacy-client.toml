@@ -1,0 +1,7 @@
+#Horizontal offset of the hud, from the center of the screen.
+#Range: -32768 ~ 32767
+hud_horizontal_offset = -210
+#Vertical offset of the hud, from the bottom of the screen.
+#Range: 0 ~ 32767
+hud_vertical_offset = 3
+

@@ -1,0 +1,237 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 4, 2022, 5:30:06 PM
+
+#minecraft:axolotl_always_hostiles
+- minecraft:drowned
+- minecraft:guardian
+- minecraft:elder_guardian
+
+#minecraft:freeze_immune_entity_types
+- minecraft:stray
+- minecraft:polar_bear
+- minecraft:snow_golem
+- minecraft:wither
+- mekanism:robit
+- twilightforest:penguin
+- twilightforest:stable_ice_core
+- twilightforest:unstable_ice_core
+- twilightforest:snow_guardian
+- twilightforest:ice_crystal
+- twilightforest:wraith
+- twilightforest:knight_phantom
+- twilightforest:winter_wolf
+- twilightforest:yeti
+- #twilightforest:bosses
+
+#twilightforest:bosses
+- twilightforest:naga
+- twilightforest:lich
+- twilightforest:minoshroom
+- twilightforest:hydra
+- twilightforest:knight_phantom
+- twilightforest:ur_ghast
+- twilightforest:alpha_yeti
+- twilightforest:snow_queen
+- twilightforest:plateau_boss
+
+#botania:cocoon/common_aquatic
+- minecraft:cod
+- minecraft:salmon
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:squid
+- quark:crab?
+
+#immersiveengineering:shaderbag/blacklist
+- #twilightforest:bosses
+
+#per-viam-invenire:replace_vanilla_navigator
+- mekanism:robit
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+- mekanism:flame
+- twilightforest:nature_bolt
+- twilightforest:lich_bolt
+- twilightforest:wand_bolt
+- twilightforest:lich_bomb
+- twilightforest:cicada_shot
+- twilightforest:moonworm_shot
+- twilightforest:slime_blob
+- twilightforest:thrown_wep
+- twilightforest:thrown_ice
+- twilightforest:falling_ice
+- twilightforest:ice_snowball
+
+#botania:cocoon/common
+- minecraft:pig
+- minecraft:cow
+- minecraft:chicken
+- minecraft:rabbit
+- minecraft:sheep
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+- twilightforest:skeleton_druid
+
+#twilightforest:lich_poppables
+- #minecraft:skeletons
+- minecraft:zombie
+- minecraft:enderman
+- minecraft:spider
+- minecraft:creeper
+- twilightforest:swarm_spider
+
+#twilightforest:sortable_entities
+- minecraft:chest_minecart
+- minecraft:hopper_minecart
+- minecraft:llama
+- minecraft:trader_llama
+- minecraft:donkey
+- minecraft:mule
+
+#botania:cocoon/rare_aquatic
+- minecraft:dolphin
+- minecraft:glow_squid
+- minecraft:axolotl
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+- twilightforest:ice_arrow
+- twilightforest:seeker_arrow
+
+#mekanism:hurtable_vehicles
+- minecraft:boat
+- minecraft:minecart
+- minecraft:chest_minecart
+- minecraft:command_block_minecart
+- minecraft:furnace_minecart
+- minecraft:hopper_minecart
+- minecraft:spawner_minecart
+- minecraft:tnt_minecart
+- biomesoplenty:boat?
+- byg:boat?
+
+#minecraft:freeze_hurts_extra_types
+- minecraft:strider
+- minecraft:blaze
+- minecraft:magma_cube
+- twilightforest:fire_beetle
+
+#twilightforest:dont_kill_bugs
+- twilightforest:cicada_shot
+- twilightforest:moonworm_shot
+- twilightforest:cicada_slingshot?
+- twilightforest:firefly_slingshot?
+- twilightforest:moonworm_slingshot?
+
+#botania:cocoon/rare
+- minecraft:horse
+- minecraft:donkey
+- minecraft:wolf
+- minecraft:ocelot
+- minecraft:cat
+- minecraft:parrot
+- minecraft:llama
+- minecraft:fox
+- minecraft:panda
+- minecraft:turtle
+- minecraft:goat
+- quark:frog?
+
+#c:bosses
+- botania:doppleganger
+
+#botania:shaded_mesa_blacklist
+- minecraft:ender_dragon
+- minecraft:wither
+- minecraft:item_frame
+- minecraft:glow_item_frame
+- minecraft:end_crystal
+- minecraft:painting
+- minecraft:command_block_minecart
+- minecraft:marker
+- minecraft:area_effect_cloud
+- minecraft:evoker_fangs
+- minecraft:leash_knot
+- botania:corporea_spark
+- botania:doppleganger
+- botania:flame_ring
+- botania:magic_landmine
+- botania:magic_missile
+- botania:mana_burst
+- botania:pink_wither
+- botania:spark
+- botania:player_mover
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+
+#twilightforest:rides_obstruct_snatching
+- twilightforest:pinch_beetle
+- twilightforest:yeti
+- twilightforest:alpha_yeti
+
+#minecraft:powder_snow_walkable_mobs
+- minecraft:rabbit
+- minecraft:endermite
+- minecraft:silverfish
+- minecraft:fox
+- mekanism:robit
+- twilightforest:penguin
+- twilightforest:stable_ice_core
+- twilightforest:unstable_ice_core
+- twilightforest:snow_guardian
+- twilightforest:ice_crystal
+- twilightforest:raven
+- twilightforest:squirrel
+- twilightforest:dwarf_rabbit
+- twilightforest:tiny_bird
+- twilightforest:kobold
+- twilightforest:death_tome
+- twilightforest:mosquito_swarm
+- twilightforest:towerwood_borer
+
+#minecraft:axolotl_hunt_targets
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:salmon
+- minecraft:cod
+- minecraft:squid
+- minecraft:glow_squid
+
+#twilightforest:lifedrain_drops_no_flesh
+- #minecraft:skeletons
+- minecraft:iron_golem
+- minecraft:shulker
+- minecraft:skeleton_horse
+- minecraft:slime
+- minecraft:snow_golem
+- twilightforest:carminite_golem
+- twilightforest:death_tome
+- twilightforest:ice_crystal
+- twilightforest:knight_phantom
+- twilightforest:lich
+- twilightforest:maze_slime
+- twilightforest:mosquito_swarm
+- twilightforest:snow_guardian
+- twilightforest:stable_ice_core
+- twilightforest:unstable_ice_core
+- twilightforest:wraith
